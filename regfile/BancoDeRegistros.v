@@ -18,7 +18,7 @@
 //Memorias y displays de 7 segmentos NOOO
 */
 Grupo: 5CV3 
-Proyecto: BancoDeRegistros
+Proyecto: Monociclo
 Archico: BancoDeRegistros.v
 Equipo: 6
 Integrantes: Díaz Ortiz Brandon Aldair
