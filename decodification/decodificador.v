@@ -1,4 +1,4 @@
-/*	Grupo: 5CV3 	Proyecto: Decodificador		Archivo: decodificador.v
+/*	Grupo: 5CV3 	Proyecto:Monociclo		Archivo: decodificador.v
 Equipo: 6
 Integrantes: 
 Díaz Ortiz Brandon Aldair			González Rosales Brenda Yareth
