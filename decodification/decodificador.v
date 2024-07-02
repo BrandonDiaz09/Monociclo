@@ -1,4 +1,14 @@
-//Encabezado
+/*	Grupo: 5CV3 	Proyecto: Decodificador		Archivo: decodificador.v
+Equipo: 6
+Integrantes: 
+Díaz Ortiz Brandon Aldair			González Rosales Brenda Yareth
+Hernández Suarez Diego Armando			Pérez Aguilar Dulce Evelyn 
+Romero Barrientos Jonathan Rubén
+
+Descripción: El módulo decodificador toma una instrucción codificada 
+(específicamente el campo opcode) como entrada y genera varias señales 
+de control necesarias para ejecutar la instrucción en el procesador.
+*/
 module decodificador (
 	input 			[6:0] opcode_i,
 	output reg  	regwrite_o, 
