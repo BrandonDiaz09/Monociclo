@@ -1,3 +1,12 @@
+/*	Grupo: 5CV3 	Proyecto: Monociclo	Archivo: tipoBranch.v
+Equipo: 6
+Integrantes: 
+Díaz Ortiz Brandon Aldair			González Rosales Brenda Yareth
+Hernández Suarez Diego Armando			Pérez Aguilar Dulce Evelyn 
+Romero Barrientos Jonathan Rubén
+Descripción: evalúa varias señales de control y flags para decidir si el PC debe actualizarse.
+Dependiendo del tipo de instrucción el módulo establece la salida pc_source_o para indicar si se debe cambiar el PC.
+*/
 module tipoBranch (
     input       branch_i,
     input       branch_ctrl_i,
