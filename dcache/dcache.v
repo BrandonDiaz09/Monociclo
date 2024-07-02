@@ -1,3 +1,11 @@
+/*	Grupo: 5CV3 	Proyecto: Monociclo	Archivo: dcache.v
+Equipo: 6
+Integrantes: 
+Díaz Ortiz Brandon Aldair			González Rosales Brenda Yareth
+Hernández Suarez Diego Armando			Pérez Aguilar Dulce Evelyn 
+Romero Barrientos Jonathan Rubén
+Descripción: memoria caché de datos con capacidades de lectura y escritura sincronizadas por reloj.
+*/
 module dcache (
 	input 				clk_i,
 	input 				writeen_i,
