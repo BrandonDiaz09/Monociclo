@@ -1,3 +1,13 @@
+/*	Grupo: 5CV3 	Nombre Proyecto: Monociclo	Nombre Archivo: monociclo_fpga.v
+Equipo: 6
+Integrantes: 
+Díaz Ortiz Brandon Aldair			González Rosales Brenda Yareth
+Hernández Suarez Diego Armando			Pérez Aguilar Dulce Evelyn 
+Romero Barrientos Jonathan Rubén
+
+Descripción: describe un módulo denominado monociclo_fpga, que se encarga 
+de controlar un circuito basado en un ciclo simple (monociclo) para una FPGA.
+*/
 module monociclo_fpga(
 	input 		 clk_i,
 	input 		 rst_ni,
