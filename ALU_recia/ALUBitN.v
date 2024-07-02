@@ -1,3 +1,13 @@
+/*	Grupo: 5CV3 	Proyecto: ALUBitN.v	Archivo: ALUBitN.v
+Equipo: 6
+Integrantes: 
+Díaz Ortiz Brandon Aldair			González Rosales Brenda Yareth
+Hernández Suarez Diego Armando			Pérez Aguilar Dulce Evelyn 
+Romero Barrientos Jonathan Rubén
+Descripción: simple de un bit que puede realizar operaciones lógicas (AND, OR, XOR) 
+y aritméticas (Suma, Resta) dependiendo de las entradas
+*/
+
 module ALUBitN (
 	input 	a_i,
 	input 	b_i,
