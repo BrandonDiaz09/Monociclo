@@ -1,4 +1,4 @@
-/*	Grupo: 5CV3 	Proyecto: Disp7segs.v	Archivo: Disp7segs.v
+/*	Grupo: 5CV3 	Proyecto: ALU.v	Archivo: Disp7segs.v
 Equipo: 6
 Integrantes: 
 Díaz Ortiz Brandon Aldair			González Rosales Brenda Yareth
