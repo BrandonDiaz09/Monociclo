@@ -1,5 +1,10 @@
-/*
-	ENCABEZADO
+/*	Grupo: 5CV3 	Proyecto: Monociclo	Archivo: fullader.v
+Equipo: 6
+Integrantes: 
+Díaz Ortiz Brandon Aldair			González Rosales Brenda Yareth
+Hernández Suarez Diego Armando			Pérez Aguilar Dulce Evelyn 
+Romero Barrientos Jonathan Rubén
+Descripción:  sumador completo
 */
 
 
