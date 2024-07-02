@@ -1,4 +1,4 @@
-/*	Grupo: 5CV3 	Nombre Proyecto: monociclo	Nombre Archivo: monociclo.v
+/*	Grupo: 5CV3 	Nombre Proyecto: Monociclo	Nombre Archivo: monociclo.v
 Equipo: 6
 Integrantes: 
 Díaz Ortiz Brandon Aldair			González Rosales Brenda Yareth
