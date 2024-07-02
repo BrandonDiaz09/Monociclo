@@ -1,3 +1,11 @@
+/*	Grupo: 5CV3 	Proyecto: Disp7segs.v	Archivo: Disp7segs.v
+Equipo: 6
+Integrantes: 
+Díaz Ortiz Brandon Aldair			González Rosales Brenda Yareth
+Hernández Suarez Diego Armando			Pérez Aguilar Dulce Evelyn 
+Romero Barrientos Jonathan Rubén
+Descripción: Asignación de displays
+*/
 module Disp7segs (
 
 	input 			[3:0] entrada_i,
