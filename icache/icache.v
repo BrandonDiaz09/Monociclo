@@ -1,7 +1,12 @@
-//Crear otra carpeta dentro de la carpeta monociclo llamada icache
-
-//Crear otro archivo
-//este archivo se guardara dentro de la carpeta icache
+/*	Grupo: 5CV3 	Proyecto: Monociclo	Archivo: icache.v
+Equipo: 6
+Integrantes: 
+Díaz Ortiz Brandon Aldair			González Rosales Brenda Yareth
+Hernández Suarez Diego Armando			Pérez Aguilar Dulce Evelyn 
+Romero Barrientos Jonathan Rubén
+Descripción: permite la lectura de instrucciones almacenadas 
+en una memoria caché inicializada desde un archivo hexadecimal
+*/
 
 module icache(
 	//Puerto de lectura
