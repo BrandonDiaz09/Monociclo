@@ -1,4 +1,4 @@
-/*	Grupo: 5CV3 	Proyecto: AluControl	Archivo: AluControl.v
+/*	Grupo: 5CV3 	Proyecto: Monociclo	Archivo: AluControl.v
 Equipo: 6
 Integrantes: 
 Díaz Ortiz Brandon Aldair			González Rosales Brenda Yareth
