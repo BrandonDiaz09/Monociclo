@@ -1,4 +1,4 @@
-/*	Grupo: 5CV3 	Proyecto: ALUBitN.v	Archivo: ALUBitN.v
+/*	Grupo: 5CV3 	Proyecto: ALU Archivo: ALUBitN.v
 Equipo: 6
 Integrantes: 
 Díaz Ortiz Brandon Aldair			González Rosales Brenda Yareth
