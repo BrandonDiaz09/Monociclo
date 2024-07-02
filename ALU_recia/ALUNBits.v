@@ -1,3 +1,11 @@
+/*	Grupo: 5CV3 	Proyecto: ALUBitN.v	Archivo: ALUBitN.v
+Equipo: 6
+Integrantes: 
+Díaz Ortiz Brandon Aldair			González Rosales Brenda Yareth
+Hernández Suarez Diego Armando			Pérez Aguilar Dulce Evelyn 
+Romero Barrientos Jonathan Rubén
+Descripción: Implementación con shift left, shift right, arithmetic shift right
+*/
 module ALUNBits #(
 	parameter 			N = 32
 )
