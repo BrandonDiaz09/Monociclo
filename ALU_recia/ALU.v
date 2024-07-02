@@ -1,3 +1,11 @@
+/*	Grupo: 5CV3 	Proyecto: ALU.v	Archivo: ALU.v
+Equipo: 6
+Integrantes: 
+Díaz Ortiz Brandon Aldair			González Rosales Brenda Yareth
+Hernández Suarez Diego Armando			Pérez Aguilar Dulce Evelyn 
+Romero Barrientos Jonathan Rubén
+Descripción: implementación de operaciones aritmético-lógicas del procesador
+*/
 module ALU (
 	input 	a_i,
 	input 	b_i,
