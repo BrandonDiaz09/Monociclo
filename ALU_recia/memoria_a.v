@@ -1,3 +1,11 @@
+/*	Grupo: 5CV3 	Proyecto: ExteniónDeSigno	Archivo: extensiodesigno.v
+Equipo: 6
+Integrantes: 
+Díaz Ortiz Brandon Aldair			González Rosales Brenda Yareth
+Hernández Suarez Diego Armando			Pérez Aguilar Dulce Evelyn 
+Romero Barrientos Jonathan Rubén
+Descripción: Este módulo define una memoria de solo lectura con una profundidad de 8 palabras de 32 bits cada una.
+*/
 module memoria_a (
 
 	input 		[2:0] addr_i,
