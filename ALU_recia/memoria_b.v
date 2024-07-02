@@ -1,3 +1,11 @@
+/*	Grupo: 5CV3 	Proyecto: ExteniónDeSigno	Archivo: extensiodesigno.v
+Equipo: 6
+Integrantes: 
+Díaz Ortiz Brandon Aldair			González Rosales Brenda Yareth
+Hernández Suarez Diego Armando			Pérez Aguilar Dulce Evelyn 
+Romero Barrientos Jonathan Rubén
+Descripción: permite leer los valores almacenados en la memoria a través de una dirección proporcionada como entrada.
+*/
 module memoria_b (
 
 	input 		[2:0] addr_i,
