@@ -1,31 +1,10 @@
-//Los puertos de lectura son asincronos
-//Los puertos de escritura son sincronos
-
-//Para guardarlo nos vamos al menu save
-//Nos vamos a la carpeta monociclo y se crea una
-//Nueva llamada regfile
-
-//De fung7 solo se toma el bit 5, de menor a mayor
-//significativo. Eso seria el b`it 30 de la instruccion
-//de 32 bits
-
-//Se copia la carpeta del ALU al proyecto de monociclo
-
-//Menu project 
-//add remove files in project
-//Vamos a la ALU y agregamos uno por uno todos los archivos
-//pertenecientes a la ALU
-//Memorias y displays de 7 segmentos NOOO
-*/
-Grupo: 5CV3 
-Proyecto: Monociclo
-Archico: BancoDeRegistros.v
+/*Grupo: 5CV3 		Proyecto: Monociclo		Archico: BancoDeRegistros.v
 Equipo: 6
-Integrantes: Díaz Ortiz Brandon Aldair
-González Rosales Brenda Yareth
-Hernández Suarez Diego Armando
-Pérez Aguilar Dulce Evelyn 
+Integrantes: 
+Díaz Ortiz Brandon Aldair			González Rosales Brenda Yareth
+Hernández Suarez Diego Armando			Pérez Aguilar Dulce Evelyn 
 Romero Barrientos Jonathan Rubén
+
 Descripción: Banco de registros donde se puede leer desde dos registros diferentes simultáneamente,
 y se puede escribir en un registro seleccionado (rd_i) cuando la señal de escritura (wren_i)
 está activa y en el flanco de subida del reloj
